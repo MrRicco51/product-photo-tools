@@ -1,0 +1,15 @@
+# Результаты запуска скриптов
+result/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Временные файлы Excel и системное
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
